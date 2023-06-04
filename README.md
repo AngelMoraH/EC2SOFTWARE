@@ -4,6 +4,7 @@
 - Angel Mora
 - Jean Pierre Sotomayor
 - Wanly Obregón
+- Juan Sebastian Sara
 
 ## EJECUCIÓN
 - pip install virtualenv
