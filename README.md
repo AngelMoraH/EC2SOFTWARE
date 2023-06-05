@@ -5,6 +5,7 @@
 - Jean Pierre Sotomayor
 - Wanly Obregón
 - Juan Sebastian Sara
+- Matias Avendaño Vargas
 
 ## EJECUCIÓN
 - pip install virtualenv
